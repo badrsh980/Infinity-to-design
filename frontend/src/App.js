@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <h2>Welcome to infinity design</h2>
+    <p>Welcome to infinity design</p>
 
 
   )
